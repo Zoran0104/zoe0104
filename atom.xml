@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zoran0104.com/"/>
-  <updated>2020-08-08T02:05:48.167Z</updated>
+  <updated>2020-08-16T01:12:35.248Z</updated>
   <id>https://www.zoran0104.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring中的InitializingBean接口</title>
+    <link href="https://www.zoran0104.com/spring-zhong-de-initializingbean-jie-kou/"/>
+    <id>https://www.zoran0104.com/spring-zhong-de-initializingbean-jie-kou/</id>
+    <published>2020-08-16T01:06:12.000Z</published>
+    <updated>2020-08-16T01:12:35.248Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;InitializingBean接口为bean提供了初始化方法的方式，它只包括afterPropertiesSet方法，凡是继承该接口的类，在初始化bean的时候会执行该方法。&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Spring学习札记" scheme="https://www.zoran0104.com/categories/Spring%E5%AD%A6%E4%B9%A0%E6%9C%AD%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>\@ControllerAdvice注解的使用</title>
