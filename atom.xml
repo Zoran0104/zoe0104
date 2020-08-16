@@ -62,7 +62,7 @@
     <link href="https://www.zoran0104.com/swagger/"/>
     <id>https://www.zoran0104.com/swagger/</id>
     <published>2020-08-07T14:18:51.000Z</published>
-    <updated>2020-08-07T14:39:31.012Z</updated>
+    <updated>2020-08-16T03:32:24.315Z</updated>
     
     <summary type="html">
     
@@ -70,7 +70,10 @@
       
         
         
-          &lt;p&gt;最近在写项目时，作为一直求新的少年，一直会关注下依赖包的最新版，在导入SpringFox-swagger 2.9.10发现一直无法通过/swagger-ui.html访问，百度又是清一色的兼容swagger
+          &lt;blockquote&gt;
+&lt;p&gt;2020.8.16更新：在项目使用时发现，目前3.0对file上传的支持存在问题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近在写项目时，作为一直求新的少年，一直会关注下依赖包的最新版，在导入SpringFox-swagger
         
       
     
